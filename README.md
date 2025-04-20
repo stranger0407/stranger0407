@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **LeetCode Contest Scheduler**
 - 🤝 Looking to collaborate on **AI-integrated Frontend Applications**
 - 🌱 Currently learning **React.js** and enhancing my **System Design** skills
-- 📫 Reach me at: [raja.jha@simformsolutions.com](mailto:raja.jha@simformsolutions.com)
+- 📫 Reach me at: [raja.jha@simformsolutions.com](mailto:rgjha2001@gmail.com)
 - 💬 Ask me about anything related to **DSA**, **Web Development**, or **Tech in general**
 - 💡 Fun Fact: I break things just to fix them better 🛠️
 
