@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **LeetCode Contest Scheduler**
 - 🤝 Looking to collaborate on **AI-integrated Frontend Applications**
 - 🌱 Currently learning **React.js** and enhancing my **System Design** skills
-- 📫 Reach me at: [raja.jha@simformsolutions.com](mailto:rgjha2001@gmail.com)
+- 📫 Reach me at: [rgjha2001@gmail.com](mailto:rgjha2001@gmail.com)
 - 💬 Ask me about anything related to **DSA**, **Web Development**, or **Tech in general**
 - 💡 Fun Fact: I break things just to fix them better 🛠️
 
@@ -25,6 +25,9 @@
   </a>
   <a href="https://github.com/stranger0407">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/26344452/raja-jha">
+    <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
 </p>
 
@@ -77,26 +80,24 @@
 
 ## 📌 Featured Projects
 
-### 📝 DailyDiary  
-A secure journaling platform to share your daily thoughts, with support for text, images, and email-based password recovery.
-
-[![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://dailydiary-frontend.vercel.app)  
-[![Backend Code](https://img.shields.io/badge/Backend-GitHub-blue?style=for-the-badge)](https://github.com/stranger0407/DailyDiary-backend)
-
----
-
-### ✏️ Quick Collab  
-Real-time collaborative whiteboard with drawing, zoom/pan, undo/redo, and room-based communication.
-
-[![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://quick-collab-frontend.vercel.app)  
-[![Backend Code](https://img.shields.io/badge/Backend-GitHub-blue?style=for-the-badge)](https://github.com/stranger0407/Quick-Collab-Backend)
+### 🎬 Netflix Clone  
+A clone of Netflix with features like user authentication, video streaming, and interactive user interface.  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://netflix-clone-frontend.vercel.app)  
+[![GitHub Code](https://img.shields.io/badge/Backend-GitHub-blue?style=for-the-badge)](https://github.com/stranger0407/netflix-clone-backend)
 
 ---
 
-### 👥 Community Management Backend  
-Backend system for managing communities, users, and roles using secure JWT authentication and MongoDB.
+### 🏴‍☠️ Coin Voyage Game  
+An engaging coin-based voyage game where you collect coins and face challenges.  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://coin-voyage-game.vercel.app)  
+[![GitHub Code](https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge)](https://github.com/stranger0407/coin-voyage-game)
 
-[![GitHub Code](https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge)](https://github.com/stranger0407/Community-Management-Backend)
+---
+
+### 🏏 Live Cricket  
+A live cricket score web application with real-time updates and match statistics.  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://live-cricket-score.vercel.app)  
+[![GitHub Code](https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge)](https://github.com/stranger0407/live-cricket)
 
 ---
 
