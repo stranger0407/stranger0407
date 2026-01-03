@@ -1,129 +1,220 @@
-<h1 align="center">Hi 👋, I'm Raja Jha</h1>
-<h3 align="center">🚀 A passionate Developer & Tech Enthusiast from India</h3>
+<!-- Header Banner with Typing Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raja%20G%20Jha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Java%20Developer%20|%20Building%20Digital%20Experiences&descAlignY=52&descSize=16"/>
+</div>
+
+<!-- Animated Typing -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;%F0%9F%92%BB+Java+Full+Stack+Developer;%F0%9F%9A%80+Spring+Boot+%7C+Angular+%7C+React+Enthusiast;%F0%9F%8C%9F+Open+to+Exciting+Opportunities!" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- Visitor Badge & Social Links -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=stranger0407&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/stranger0407?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+</div>
+
+<br/>
+
+<!-- Social Links -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/raja-jha-971a3122b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rgjha2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://leetcode.com/u/rgjha2001/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://stackoverflow.com/users/26344452/raja-jha">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+</div>
 
 ---
 
 ## 💫 About Me
 
-- 🔭 I’m currently working on **LeetCode Contest Scheduler**
-- 🤝 Looking to collaborate on **AI-integrated Frontend Applications**
-- 🌱 Currently learning **React.js** and enhancing my **System Design** skills
-- 📫 Reach me at: [rgjha2001@gmail.com](mailto:rgjha2001@gmail.com)
-- 💬 Ask me about anything related to **DSA**, **Web Development**, or **Tech in general**
-- 💡 Fun Fact: I break things just to fix them better 🛠️
+```javascript
+const raja = {
+    pronouns: "He" | "Him",
+    location: "Ahmedabad, India 🇮🇳",
+    currentRole: "Software Engineer | Java Full Stack Developer",
+    workingWith: ["Spring Boot", "Angular", "React", "TypeScript"],
+    lookingFor: "Exciting opportunities to build impactful products",
+    askMeAbout: ["Java", "Spring Boot", "Angular", "React", "System Design", "DSA"],
+    funFact: "I break things just to fix them better 🛠️"
+};
+```
+
+- 🔭 Currently working as a **Java Full Stack Developer** with expertise in **Angular**
+- 🚀 Building scalable web applications with **Spring Boot** & **React**
+- 🌱 Continuously learning and enhancing my **System Design** skills
+- 💡 Passionate about clean code and best practices
+- 🎯 **Open to exciting opportunities** where I can contribute and grow!
 
 ---
 
-## 🌐 Connect with Me
+## 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://linkedin.com/in/raja-jha-971a3122b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rgjha2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/stranger0407">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/26344452/raja-jha">
-    <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
----
+### 👨‍💻 Programming Languages
 
-## 🧰 Tech Stack
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,cpp&theme=dark" alt="Languages" />
 
-### 💻 Languages
+### 🎨 Frontend
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=angular,react,html,css,tailwind,bootstrap&theme=dark" alt="Frontend" />
 
-### 🚀 Frontend
+### ⚙️ Backend & Database
 
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8e44ad?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,postgres,hibernate&theme=dark" alt="Backend" />
 
-### 🔧 Backend
+### 🧰 Tools & Platforms
 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,vercel&theme=dark" alt="Tools" />
 
-### 🧠 Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🧪 Tools
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
-### 📊 Data & AI
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black)
+</div>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🎬 Netflix Clone  
-A clone of Netflix with features like user authentication, video streaming, and interactive user interface.  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://netflix-clone-frontend.vercel.app)  
-[![GitHub Code](https://img.shields.io/badge/Backend-GitHub-blue?style=for-the-badge)](https://github.com/stranger0407/netflix-clone-backend)
+<div align="center">
+
+### 🛒 Mahalaxmi Ecommerce Platform
+
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=stranger0407&repo=Ecommerce&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/stranger0407/Ecommerce)
+
+**Full-stack ecommerce platform for selling servers and computers**
+
+`Spring Boot 3.2.1` `Java 21` `React 18` `TypeScript` `JWT Auth` `MySQL`
+
+✨ Features: Spring Security, JWT Authentication, Role-based Access Control, RESTful APIs, Shopping Cart, Tailwind CSS UI
 
 ---
 
-### 🏴‍☠️ Coin Voyage Game  
-An engaging coin-based voyage game where you collect coins and face challenges.  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://coin-voyage-game.vercel.app)  
-[![GitHub Code](https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge)](https://github.com/stranger0407/coin-voyage-game)
+### 👨‍💼 Portfolio Website
+
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=stranger0407&repo=portfolio-new&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/stranger0407/portfolio-new)
+
+**Modern portfolio website showcasing my work and skills**
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `shadcn-ui`
+
+🔗 [Live Demo](https://portfolio-new-gamma-nine.vercel.app)
 
 ---
 
-### 🏏 Live Cricket  
-A live cricket score web application with real-time updates and match statistics.  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://live-cricket-score.vercel.app)  
-[![GitHub Code](https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge)](https://github.com/stranger0407/live-cricket)
+### 🍳 Recipe Application
+
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=stranger0407&repo=Receipe&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/stranger0407/Receipe)
+
+**A delightful recipe website for food enthusiasts**
+
+`Full Stack` `Web Application` `Recipe Management`
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stranger0407&theme=radical&hide_border=true&show_icons=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=stranger0407&theme=radical&hide_border=true" width="49%" />
-</p>
+<div align="center">
+  <a href="https://github.com/stranger0407">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stranger0407&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/stranger0407">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stranger0407&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stranger0407&layout=compact&theme=radical&hide_border=true" width="49%" />
-</p>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/stranger0407">
+    <img src="https://streak-stats.demolab.com/?user=stranger0407&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+  </a>
+</div>
 
 ---
 
-## 📊 GitHub Activity Graph
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stranger0407&theme=dracula&hide_border=true" />
-</p>
+<div align="center">
+  <a href="https://github.com/stranger0407">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=stranger0407&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  </a>
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stranger0407&theme=onedark&no-frame=true&no-bg=false&margin-w=8" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=stranger0407&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+</picture>
+
+> 💡 *Want your own snake? Check out [snk](https://github.com/Platane/snk) to set up GitHub Actions!*
+
+---
+
+## 💻 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/rgjha2001?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+**I'm actively looking for exciting opportunities where I can contribute my skills and grow professionally!**
+
+💬 Feel free to reach out for collaborations, opportunities, or just a tech chat!
+
+<br/>
+
+<a href="mailto:rgjha2001@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/raja-jha-971a3122b/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
+
+<div align="center">
+  <b>⭐ If you find my work interesting, consider giving it a star! ⭐</b>
+  <br/><br/>
+  <i>Thanks for visiting! Have a great day! 🚀</i>
+</div>
