@@ -6,6 +6,7 @@ Java Full-Stack Developer focused on building reliable, user-centric products ac
 
 ## Professional Snapshot
 
+- Based in Pune, India.
 - 40 public repositories across Java, TypeScript, JavaScript, Python, Kotlin, Dart, and web technologies.
 - Hands-on full-stack delivery with Spring Boot + React/Angular architecture.
 - Multiple live deployments on Vercel with production-oriented backend services.
@@ -54,8 +55,13 @@ Java Full-Stack Developer focused on building reliable, user-centric products ac
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=stranger0407&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stranger0407&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stranger0407&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stranger0407&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stranger0407&theme=tokyonight" alt="Most commit language" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stranger0407&theme=tokyonight" alt="Repos per language" />
 </div>
 
 <div align="center">
@@ -66,11 +72,7 @@ Java Full-Stack Developer focused on building reliable, user-centric products ac
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=stranger0407&theme=tokyo-night&hide_border=true&area=true&custom_title=Raja%20Jha%20Contribution%20Timeline" alt="Activity graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stranger0407&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub trophies" />
-</div>
-
-<p align="center"><i>If one card is temporarily unavailable, refresh after a minute. Some providers are rate-limited.</i></p>
+<p align="center"><i>Activity cards now use endpoints that are currently responding reliably.</i></p>
 
 ## Open To Work
 
