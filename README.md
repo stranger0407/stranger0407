@@ -47,12 +47,30 @@ Java Full-Stack Developer focused on building reliable, user-centric products ac
 | [Receipe](https://github.com/stranger0407/Receipe) | [scientific-calc](https://github.com/stranger0407/scientific-calc) | [socialmedia](https://github.com/stranger0407/socialmedia) | [stranger0407](https://github.com/stranger0407/stranger0407) |
 | [todo](https://github.com/stranger0407/todo) | [Todo_react](https://github.com/stranger0407/Todo_react) | [ui](https://github.com/stranger0407/ui) | [video_chat](https://github.com/stranger0407/video_chat) |
 
-## GitHub Activity
+## GitHub Activity (Overdrive Mode)
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=stranger0407&show_icons=true&count_private=true&hide_title=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stranger0407&layout=compact&langs_count=8" alt="Top languages" />
-</p>
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stranger0407&theme=tokyonight" alt="Profile details" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=stranger0407&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stranger0407&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=stranger0407&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=stranger0407&theme=tokyo-night&hide_border=true&area=true&custom_title=Raja%20Jha%20Contribution%20Timeline" alt="Activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=stranger0407&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub trophies" />
+</div>
+
+<p align="center"><i>If one card is temporarily unavailable, refresh after a minute. Some providers are rate-limited.</i></p>
 
 ## Open To Work
 
