@@ -1,220 +1,62 @@
-<!-- Header Banner with Typing Animation -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raja%20G%20Jha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Java%20Developer%20|%20Building%20Digital%20Experiences&descAlignY=52&descSize=16"/>
-</div>
-
-<!-- Animated Typing -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;%F0%9F%92%BB+Java+Full+Stack+Developer;%F0%9F%9A%80+Spring+Boot+%7C+Angular+%7C+React+Enthusiast;%F0%9F%8C%9F+Open+to+Exciting+Opportunities!" alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- Visitor Badge & Social Links -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=stranger0407&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/stranger0407?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-</div>
-
-<br/>
-
-<!-- Social Links -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/raja-jha-971a3122b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:rgjha2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://leetcode.com/u/rgjha2001/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://stackoverflow.com/users/26344452/raja-jha">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-</div>
-
----
-
-## 💫 About Me
-
-```javascript
-const raja = {
-    pronouns: "He" | "Him",
-    location: "Ahmedabad, India 🇮🇳",
-    currentRole: "Software Engineer | Java Full Stack Developer",
-    workingWith: ["Spring Boot", "Angular", "React", "TypeScript"],
-    lookingFor: "Exciting opportunities to build impactful products",
-    askMeAbout: ["Java", "Spring Boot", "Angular", "React", "System Design", "DSA"],
-    funFact: "I break things just to fix them better 🛠️"
-};
-```
-
-- 🔭 Currently working as a **Java Full Stack Developer** with expertise in **Angular**
-- 🚀 Building scalable web applications with **Spring Boot** & **React**
-- 🌱 Continuously learning and enhancing my **System Design** skills
-- 💡 Passionate about clean code and best practices
-- 🎯 **Open to exciting opportunities** where I can contribute and grow!
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 👨‍💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,cpp&theme=dark" alt="Languages" />
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=angular,react,html,css,tailwind,bootstrap&theme=dark" alt="Frontend" />
-
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,postgres,hibernate&theme=dark" alt="Backend" />
-
-### 🧰 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,vercel&theme=dark" alt="Tools" />
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-### 🛒 Mahalaxmi Ecommerce Platform
-
-[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=stranger0407&repo=Ecommerce&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/stranger0407/Ecommerce)
-
-**Full-stack ecommerce platform for selling servers and computers**
-
-`Spring Boot 3.2.1` `Java 21` `React 18` `TypeScript` `JWT Auth` `MySQL`
-
-✨ Features: Spring Security, JWT Authentication, Role-based Access Control, RESTful APIs, Shopping Cart, Tailwind CSS UI
-
----
-
-### 👨‍💼 Portfolio Website
-
-[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=stranger0407&repo=portfolio-new&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/stranger0407/portfolio-new)
-
-**Modern portfolio website showcasing my work and skills**
-
-`React` `TypeScript` `Vite` `Tailwind CSS` `shadcn-ui`
-
-🔗 [Live Demo](https://portfolio-new-gamma-nine.vercel.app)
-
----
-
-### 🍳 Recipe Application
-
-[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=stranger0407&repo=Receipe&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/stranger0407/Receipe)
-
-**A delightful recipe website for food enthusiasts**
-
-`Full Stack` `Web Application` `Recipe Management`
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/stranger0407">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stranger0407&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/stranger0407">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stranger0407&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/stranger0407">
-    <img src="https://streak-stats.demolab.com/?user=stranger0407&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-  </a>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <a href="https://github.com/stranger0407">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=stranger0407&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-  </a>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stranger0407&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-</picture>
-
-> 💡 *Want your own snake? Check out [snk](https://github.com/Platane/snk) to set up GitHub Actions!*
-
----
-
-## 💻 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/rgjha2001?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-**I'm actively looking for exciting opportunities where I can contribute my skills and grow professionally!**
-
-💬 Feel free to reach out for collaborations, opportunities, or just a tech chat!
-
-<br/>
-
-<a href="mailto:rgjha2001@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/raja-jha-971a3122b/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
-
-<div align="center">
-  <b>⭐ If you find my work interesting, consider giving it a star! ⭐</b>
-  <br/><br/>
-  <i>Thanks for visiting! Have a great day! 🚀</i>
-</div>
+# Raja G Jha
+
+Java Full-Stack Developer focused on building reliable, user-centric products across healthcare learning, ecommerce, analytics, and real-time monitoring.
+
+[LinkedIn](https://www.linkedin.com/in/raja-jha-971a3122b/) | [Email](mailto:rgjha2001@gmail.com) | [LeetCode](https://leetcode.com/u/rgjha2001/) | [Stack Overflow](https://stackoverflow.com/users/26344452/raja-jha) | [Portfolio](https://portfolio-new-gamma-nine.vercel.app)
+
+## Professional Snapshot
+
+- 40 public repositories across Java, TypeScript, JavaScript, Python, Kotlin, Dart, and web technologies.
+- Hands-on full-stack delivery with Spring Boot + React/Angular architecture.
+- Multiple live deployments on Vercel with production-oriented backend services.
+- Currently open to impactful Software Engineer opportunities.
+
+## Core Tech Stack
+
+- Backend: Java 21, Spring Boot 3, Spring Security, JWT, JPA/Hibernate, REST APIs
+- Frontend: React, Angular, TypeScript, Vite, Tailwind CSS, Bootstrap
+- Data: PostgreSQL, MySQL
+- Mobile and Cross-Platform: Kotlin (Android), Flutter (Dart)
+- Tooling: Docker, Git, GitHub, Postman, IntelliJ IDEA, VS Code
+
+## Featured Projects
+
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| [neetpg-platform](https://github.com/stranger0407/neetpg-platform) | Production-grade NEET PG MCQ platform with adaptive learning, spaced repetition, and AI-powered explanations. | Spring Boot, React, JWT, PostgreSQL, Docker | [Repo](https://github.com/stranger0407/neetpg-platform)<br>[Live](https://neetpg-one.vercel.app/) |
+| [conflict-view](https://github.com/stranger0407/conflict-view) | Real-time global conflict tracking with aggregated news, sentiment views, and analytics dashboards. | Spring Boot, Angular, PostgreSQL | [Repo](https://github.com/stranger0407/conflict-view) |
+| [Ecommerce](https://github.com/stranger0407/Ecommerce) | Full-stack ecommerce platform for hardware products with authentication, role-based access, and cart/order flows. | Spring Boot 3.2, Java 21, React, TypeScript, MySQL | [Repo](https://github.com/stranger0407/Ecommerce)<br>[Live](https://ecommerce-three-ruby-yrdj6u0e0e.vercel.app) |
+| [Financehub](https://github.com/stranger0407/Financehub) | Modern finance-focused dashboard experience using TypeScript frontend tooling. | React, TypeScript, Vite | [Repo](https://github.com/stranger0407/Financehub)<br>[Live](https://financehub-gamma.vercel.app) |
+| [portfolio-new](https://github.com/stranger0407/portfolio-new) | Personal portfolio website showcasing projects, skills, and engineering profile. | React, TypeScript, Vite, Tailwind CSS | [Repo](https://github.com/stranger0407/portfolio-new)<br>[Live](https://portfolio-new-gamma-nine.vercel.app) |
+| [LIVE-CRICKET](https://github.com/stranger0407/LIVE-CRICKET) | Android cricket score application with real-time updates. | Java, Kotlin, Firebase | [Repo](https://github.com/stranger0407/LIVE-CRICKET) |
+| [pg_management](https://github.com/stranger0407/pg_management) | Flutter application for PG management workflows. | Dart, Flutter | [Repo](https://github.com/stranger0407/pg_management) |
+| [Netflix-clone](https://github.com/stranger0407/Netflix-clone) | Netflix-inspired app with Firebase authentication and movie browsing flows. | React, JavaScript, Firebase | [Repo](https://github.com/stranger0407/Netflix-clone)<br>[Live](https://netflix-clone-eight-cyan-86.vercel.app) |
+
+## Repository Directory (All Public Repositories)
+
+| | | | |
+|---|---|---|---|
+| [Angular_VCProject](https://github.com/stranger0407/Angular_VCProject) | [calc-Jsdoc](https://github.com/stranger0407/calc-Jsdoc) | [calc-ts](https://github.com/stranger0407/calc-ts) | [calculator](https://github.com/stranger0407/calculator) |
+| [coin](https://github.com/stranger0407/coin) | [Coin-Voyage-Game](https://github.com/stranger0407/Coin-Voyage-Game) | [conflict-view](https://github.com/stranger0407/conflict-view) | [Contact](https://github.com/stranger0407/Contact) |
+| [day2](https://github.com/stranger0407/day2) | [Dsa](https://github.com/stranger0407/Dsa) | [ecomerce](https://github.com/stranger0407/ecomerce) | [Ecommerce](https://github.com/stranger0407/Ecommerce) |
+| [Ecommerce-angular](https://github.com/stranger0407/Ecommerce-angular) | [Financehub](https://github.com/stranger0407/Financehub) | [Headline](https://github.com/stranger0407/Headline) | [hydrogen-x](https://github.com/stranger0407/hydrogen-x) |
+| [javascript](https://github.com/stranger0407/javascript) | [LIVE-CRICKET](https://github.com/stranger0407/LIVE-CRICKET) | [Mausam-](https://github.com/stranger0407/Mausam-) | [MERN-BOOKING-APP](https://github.com/stranger0407/MERN-BOOKING-APP) |
+| [modular-calc](https://github.com/stranger0407/modular-calc) | [MVC-crud](https://github.com/stranger0407/MVC-crud) | [mvc-table](https://github.com/stranger0407/mvc-table) | [neetpg-databank](https://github.com/stranger0407/neetpg-databank) |
+| [neetpg-platform](https://github.com/stranger0407/neetpg-platform) | [Netflix-clone](https://github.com/stranger0407/Netflix-clone) | [pg_management](https://github.com/stranger0407/pg_management) | [Portfolio](https://github.com/stranger0407/Portfolio) |
+| [portfolio-new](https://github.com/stranger0407/portfolio-new) | [prac-test](https://github.com/stranger0407/prac-test) | [pt2](https://github.com/stranger0407/pt2) | [Raja-Simform](https://github.com/stranger0407/Raja-Simform) |
+| [Receipe](https://github.com/stranger0407/Receipe) | [scientific-calc](https://github.com/stranger0407/scientific-calc) | [socialmedia](https://github.com/stranger0407/socialmedia) | [stranger0407](https://github.com/stranger0407/stranger0407) |
+| [todo](https://github.com/stranger0407/todo) | [Todo_react](https://github.com/stranger0407/Todo_react) | [ui](https://github.com/stranger0407/ui) | [video_chat](https://github.com/stranger0407/video_chat) |
+
+## GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=stranger0407&show_icons=true&count_private=true&hide_title=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stranger0407&layout=compact&langs_count=8" alt="Top languages" />
+</p>
+
+## Open To Work
+
+I am open to software engineering opportunities where I can contribute to full-stack product development, backend architecture, and frontend user experience.
+
+- Email: [rgjha2001@gmail.com](mailto:rgjha2001@gmail.com)
+- LinkedIn: [linkedin.com/in/raja-jha-971a3122b](https://www.linkedin.com/in/raja-jha-971a3122b/)
