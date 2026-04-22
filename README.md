@@ -6,7 +6,7 @@ Java Full-Stack Developer focused on building reliable, user-centric products ac
 
 ## Resume
 
-[Download Resume (PDF)](https://github.com/stranger0407/stranger0407/raw/main/Raja_G_Jha_Resume.pdf)
+[Download Resume (PDF)](https://github.com/stranger0407/stranger0407/raw/main/Raja_Jha_07.pdf)
 
 ## Professional Snapshot
 
