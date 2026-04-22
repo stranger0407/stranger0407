@@ -4,6 +4,10 @@ Java Full-Stack Developer focused on building reliable, user-centric products ac
 
 [LinkedIn](https://www.linkedin.com/in/raja-jha-971a3122b/) | [Email](mailto:rgjha2001@gmail.com) | [LeetCode](https://leetcode.com/u/rgjha2001/) | [Stack Overflow](https://stackoverflow.com/users/26344452/raja-jha) | [Portfolio](https://portfolio-new-gamma-nine.vercel.app)
 
+## Resume
+
+[Download Resume (PDF)](https://github.com/stranger0407/stranger0407/raw/main/Raja_G_Jha_Resume.pdf)
+
 ## Professional Snapshot
 
 - Based in Pune, India.
